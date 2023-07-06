@@ -9,7 +9,7 @@
 &bull; (Production) WSGI server is setup with Gunicorn to run the Live Python Application. PostgreSQL database is used for production. <br>
 &bull; (Development) Development and testing is done locally with a SQLite database. <br>
 ## Topics covered
-&bull; Python, HTML, CSS, Heroku, SQL <br>
+&bull; Python, HTML, CSS, SQL <br>
 &bull; Flask Web Framework <br>
 &bull; SQL Databases <br>
 &bull; Decorators <br>
